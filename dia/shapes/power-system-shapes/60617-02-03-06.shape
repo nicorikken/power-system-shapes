@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <name>60617 02-03-06</name>
+  <icon>60617-02-03-06.png</icon>
+  <aspectratio type="fixed"/>
+
+  <dc:creator>Nico Rikken</dc:creator>
+  <dc:rights>Copyright Nico Rikken 2014</dc:rights>
+  <dc:description>This shape is based on the IEC60617 specifications.
+  </dc:description>
+  <dc:language>en-IE</dc:language>
+
+  <svg:svg>
+    <svg:g>
+      <svg:line x1="0" y1="3" x2="2" y2="1"/>
+      <svg:line x1="1.625" y1="0.625" x2="2.375" y2="1.375"/>
+      <svg:text x="3" y="1">I = 0</svg:text>
+    </svg:g>
+  </svg:svg>
+</shape>
