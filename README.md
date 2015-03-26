@@ -18,11 +18,11 @@ Currently the licence is not yet decided upon, although a free licence is intend
 
 ## Targeted software
 There are multiple projects which would benefit from a collection of power system shapes:
-1. Dia (via sheets)
-2. LibreOffice Draw (via a plugin)
-3. LibreCAD
-4. QCad
-5. Inkscape (more general)
+ 1. Dia (via sheets)
+ 2. LibreOffice Draw (via a plugin)
+ 3. LibreCAD
+ 4. QCad
+ 5. Inkscape (more general)
 
 ## Shape resources
 Power system symbols have existed for many years and are standardized by multiple international standards. As a result most symbols are widely available in standards documents, books, manuals and academic papers. Despite standardisation symbols might vary slightly between countries and a further distinction can be made between symbols depicting all phases and single-line diagram (SLD) variants.
