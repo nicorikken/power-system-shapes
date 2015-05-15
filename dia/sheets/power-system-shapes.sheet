@@ -3,92 +3,99 @@
 <name>nico-dev</name>
 <description>Sheet under development</description>
 <contents>
-	<object name="scratch">
-		<description>Scratch</description>
-	</object>	
-	<object name="60617 02-01-01">
-		<description>Object form 1</description>
-	</object>
-	<object name="60617 02-01-02">
-		<description>Object form 2</description>
-	</object>
-	<object name="60617 02-01-03">
-		<description>Object form 3</description>
-	</object>
-	<object name="60617 02-01-04">
-		<description>Envelope form 1</description>
-	</object>
-	<object name="60617 02-01-05">
-		<description>Envelope form 2</description>
-	</object>
-	<object name="60617 02-01-07">
-		<description>Screen or Shield</description>
-	</object>
-	<object name="60617 02-01-08">
-		<description>Protection against unintentional direct contact</description>
-	</object>
-
-	<object name="60617 02-02-03">
-		<description>Direct current</description>
-	</object>
-	<object name="60617 02-02-04">
-		<description>Alternating current</description>
-	</object>
-  <object name="60617 02-02-05">
-		<description>Example: Alternating current of 50Hz</description>
-	</object>
-	<object name="60617 02-02-09">
-		<description>Relatively low frequencies</description>
-	</object>
-	<object name="60617 02-02-10">
-		<description>Medium frequencies</description>
-	</object>
-	<object name="60617 02-02-11">
-		<description>Relatively high frequencies</description>
-	</object>
-	<object name="60617 02-02-12">
-		<description>Rectified current with alternating component</description>
+  <object name="scratch">
+    <description>Scratch</description>
+  </object>	
+  <object name="60617 02-01-01">
+    <description>Object form 1</description>
   </object>
-	<object name="60617 02-02-13">
-		<description>Positive polarity</description>
+  <object name="60617 02-01-02">
+    <description>Object form 2</description>
+  </object>
+  <object name="60617 02-01-03">
+    <description>Object form 3</description>
+  </object>
+  <object name="60617 02-01-04">
+    <description>Envelope form 1</description>
+  </object>
+  <object name="60617 02-01-05">
+    <description>Envelope form 2</description>
+  </object>
+  <object name="60617 02-01-07">
+    <description>Screen or Shield</description>
+  </object>
+  <object name="60617 02-01-08">
+    <description>Protection against unintentional direct contact</description>
+  </object>
+
+  <object name="60617 02-02-03">
+    <description>Direct current</description>
+  </object>
+  <object name="60617 02-02-04">
+    <description>Alternating current</description>
+  </object>
+  <object name="60617 02-02-05">
+    <description>Example: Alternating current of 50Hz</description>
+  </object>
+  <object name="60617 02-02-09">
+    <description>Relatively low frequencies</description>
+  </object>
+  <object name="60617 02-02-10">
+    <description>Medium frequencies</description>
+  </object>
+  <object name="60617 02-02-11">
+    <description>Relatively high frequencies</description>
+  </object>
+  <object name="60617 02-02-12">
+    <description>Rectified current with alternating component</description>
+  </object>
+  <object name="60617 02-02-13">
+    <description>Positive polarity</description>
   </object>
   <object name="60617 02-02-15">
-		<description>Neutral</description>
+    <description>Neutral</description>
   </object>
   <object name="60617 02-02-16">
-		<description>Mid-wire</description>
+    <description>Mid-wire</description>
   </object>
 
   <object name="60617 02-03-01">
-		<description>Adjustability, general symbol</description>
+    <description>Adjustability, general symbol</description>
   </object>
   <object name="60617 02-03-02">
-		<description>Adjustability, non-linear</description>
+    <description>Adjustability, non-linear</description>
   </object>
   <object name="60617 02-03-03">
-		<description>Variability, inherent, general symbol</description>
+    <description>Variability, inherent, general symbol</description>
   </object>
   <object name="60617 02-03-04">
-		<description>Variability, inherent, non-linear</description>
+    <description>Variability, inherent, non-linear</description>
   </object>
   <object name="60617 02-03-05">
-		<description>Pre-set adjustability</description>
+    <description>Pre-set adjustability</description>
   </object>
   <object name="60617 02-03-06">
-		<description>Example: Pre-set adjustment premitted only at zero current</description>
+    <description>Example: Pre-set adjustment premitted only at zero current</description>
+  </object>
+  <object name="60617 02-03-07">
+    <description>Action in steps</description>
   </object>
 
   <object name="60617 06-09-01">
-		<description>Transformer with two windings form 1</description>
-	</object>
+    <description>Transformer with two windings form 1</description>
+  </object>
   <object name="60617 06-09-02">
-		<description>Transformer with two windings form 2</description>
-	</object>
+    <description>Transformer with two windings form 2</description>
+  </object>
   <object name="60617 06-09-03">
-		<description>Example: Transformer with two windings form 2, shown with instantaneous voltage polarity indicators</description>
-	</object>
+    <description>Example: Transformer with two windings form 2, shown with instantaneous voltage polarity indicators</description>
+  </object>
   <object name="60617 06-09-04">
-		<description>Transformer with three windings form 1</description>
-	</object>
+    <description>Transformer with three windings form 1</description>
+  </object>
+
+  <object name="60617 07-21-01">
+    <description>Fuse, general symbol</description>
+  </object>
 </contents>
 </sheet>
