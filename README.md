@@ -14,7 +14,7 @@ The goal can be defined along two axis, namely the number of targeted applicatio
 As different applications have different needs in terms of file formats, the shapes will be generated from a set of base definitions. In this way support for other applications can be added relatively easy if needed.
 
 ## Licence
-Currently the licence is not yet decided upon, although a free licence is intended. Deciding factors are the locality of the licence, the compatibility with other projects for reuse, and the validity of the license.
+These shapes are available under the GPLv2, to allow inclusion with Dia. If you desire a different licence for inclusion in your free software project, please contact me.
 
 ## Targeted software
 There are multiple projects which would benefit from a collection of power system shapes:
@@ -31,3 +31,13 @@ Power system symbols have existed for many years and are standardized by multipl
 * IEC 81714 (Designing of symbols)
 * IEC 61082 (about drawing electrical diagrams)
 * LibreCAD libraries http://wiki.librecad.org/index.php/Part_Libraries
+
+## Progress log
+* late 2014: Initial work for Dia.
+* spring 2015: Refactoring of previous symbols and additions to create a base set.
+
+## Bugs (todo)
+* Shape renaming
+* Additional shapes
+* Extra outlines for better aligment (like the Electrical set for Dia)
+* (Automatically) convert Dia shapes to svg, png, etc.
