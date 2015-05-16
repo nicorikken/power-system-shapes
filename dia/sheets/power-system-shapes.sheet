@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
-<name>nico-dev</name>
+<name>Power System</name>
 <description>Sheet under development</description>
 <contents>
   <object name="scratch">
@@ -85,6 +85,9 @@
   <object name="60617 06-09-01">
     <description>Transformer with two windings form 1</description>
   </object>
+  <object name="sld-transformer-2windings-h">
+    <description>Transformer with 2 windings horizontal</description>
+  </object>
   <object name="60617 06-09-02">
     <description>Transformer with two windings form 2</description>
   </object>
@@ -95,12 +98,34 @@
     <description>Transformer with three windings form 1</description>
   </object>
 
-  <object name="60617 07-21-01">
+  <object name="gen-fuse-v">
     <description>Fuse, general symbol</description>
+  </object>
+  <object name="gen-fuse-h">
+    <description>Fuse, horizontal</description>
+  </object>
+  <object name="gen-fault-d">
+    <description>Fault, downward</description>
+  </object>
+  <object name="gen-fault-var1-d">
+    <description>Fault, variation 1, downward</description>
   </object>
 
   <object name="sld-grid">
     <description>Grid</description>
+  </object>
+  <object name="sld-house-u">
+    <description>House, up</description>
+  </object>
+  <object name="sld-load-d">
+    <description>Load, downward</description>
+  </object>
+  <object name="sld-load-r">
+    <description>Load, rightward</description>
+  </object>
+
+  <object name="Network - Bus">
+    <description>Busbar</description>
   </object>
 </contents>
 </sheet>

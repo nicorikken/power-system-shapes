@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
   xmlns:svg="http://www.w3.org/2000/svg">
-  <name>gen-fuse-v</name>
-  <icon>gen-fuse-v.png</icon>
+  <name>sld-load-r</name>
+  <icon>sld-fault-r.png</icon>
   <aspectratio type="fixed"/>
 
   <dc:creator>Nico Rikken</dc:creator>
   <dc:rights>Copyright Nico Rikken 2015</dc:rights>
-  <dc:description>Generic fuse, vertical. According to IEC 60617-07-21-01.
+  <dc:description>SLD load, rightward. According to generic conventions.
   </dc:description>
   <dc:language>en-IE</dc:language>
 
   <connections>
-    <point x="1" y="0"/>
-    <point x="1" y="6"/>
+    <point x="0" y="1"/>
   </connections>
 
   <svg:svg>
     <svg:g>
-      <svg:line x1="1" y1="0" x2="1" y2="6"/>
-      <svg:path d="M 1,1.5 L 1.5,1.5 L 1.5,4.5 L 0.5,4.5 L 0.5,1.5 L 1,1.5"/>
+      <svg:path style="stroke-linejoin:bevel" d="M 1,0 L 3,1 L 1,2"/>
+      <svg:line x1="0" y1="1" x2="3" y2="1"/>
     </svg:g>
   </svg:svg>
 </shape>
