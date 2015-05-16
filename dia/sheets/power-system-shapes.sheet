@@ -5,7 +5,8 @@
 <contents>
   <object name="scratch">
     <description>Scratch</description>
-  </object>	
+  </object>
+
   <object name="60617 02-01-01">
     <description>Object form 1</description>
   </object>
@@ -96,6 +97,10 @@
 
   <object name="60617 07-21-01">
     <description>Fuse, general symbol</description>
+  </object>
+
+  <object name="sld-grid">
+    <description>Grid</description>
   </object>
 </contents>
 </sheet>

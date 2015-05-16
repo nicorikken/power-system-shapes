@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <name>sld-grid</name>
+  <icon>sld-grid.png</icon>
+  <aspectratio type="fixed"/>
+
+  <dc:creator>Nico Rikken</dc:creator>
+  <dc:rights>Copyright Nico Rikken 2015</dc:rights>
+  <dc:description>This shape is based on generic conventions.
+  </dc:description>
+  <dc:language>en-IE</dc:language>
+
+  <connections>
+    <point x="0" y="2.5"/>
+    <point x="5" y="2.5"/>
+    <point x="2.5" y="0"/>
+    <point x="2.5" y="5"/>
+  </connections>
+
+  <svg:svg>
+    <svg:g>
+      <svg:path d="M 2.5,0 L 5,0 L 5,5 L 0,5 L 0,0 L 2.5,0"/>
+
+      <svg:line x1="0" y1="0" x2="5" y2="5"/>
+      <svg:line x1="1" y1="0" x2="5" y2="4"/>
+      <svg:line x1="2" y1="0" x2="5" y2="3"/>
+      <svg:line x1="3" y1="0" x2="5" y2="2"/>
+      <svg:line x1="4" y1="0" x2="5" y2="1"/>
+      <svg:line x1="0" y1="1" x2="4" y2="5"/>
+      <svg:line x1="0" y1="2" x2="3" y2="5"/>
+      <svg:line x1="0" y1="3" x2="2" y2="5"/>
+      <svg:line x1="0" y1="4" x2="1" y2="5"/>
+
+      <svg:line x1="0" y1="5" x2="5" y2="0"/>
+      <svg:line x1="1" y1="5" x2="5" y2="1"/>
+      <svg:line x1="2" y1="5" x2="5" y2="2"/>
+      <svg:line x1="3" y1="5" x2="5" y2="3"/>
+      <svg:line x1="4" y1="5" x2="5" y2="4"/>
+      <svg:line x1="0" y1="4" x2="4" y2="0"/>
+      <svg:line x1="0" y1="3" x2="3" y2="0"/>
+      <svg:line x1="0" y1="2" x2="2" y2="0"/>
+      <svg:line x1="0" y1="1" x2="1" y2="0"/>
+    </svg:g>
+  </svg:svg>
+</shape>
